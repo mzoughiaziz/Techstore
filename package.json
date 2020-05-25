@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "mdbootstrap": "^4.12.0",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react-dom": "^16.13.0",
     "react-native-navbar": "^2.1.0",
     "react-router": "^5.1.2",
     "react-router-dom": "^5.1.2",
